@@ -79,8 +79,6 @@ The project includes several visualizations:
 ## License
 This project is licensed under the terms of the included LICENSE file.
 
-## Author
-Data Analysis Team
 
 ## Acknowledgments
 - Data collected from monthly price reports

@@ -36,6 +36,10 @@ var/
 venv/
 ENV/
 
+# Exclude specific HTML files
+interactive_scatter.html
+interactive_trends.html
+
 # OS specific files
 .DS_Store
 .DS_Store?
